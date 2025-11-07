@@ -21,6 +21,7 @@ export default function Home() {
             alt="home bg denali"
             fill
             className="object-cover"
+            priority
           />
         </div>
       </div>
